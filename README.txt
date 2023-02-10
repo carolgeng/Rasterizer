@@ -1,3 +1,1 @@
-Carol Geng, carolgeng@tamu.edu, 331001317
-Task 7
-https://www.geogebra.org/m/ZuvmPjmy for barycentric coordinate formula help (code implemented myself)
+Program that reads in and renders a triangle mesh (of type .obj) to an image via software rasterization. Rasterizes each triangle using barycentric coordinates for linear interpolations and in-triangle test and interpolates color values per pixel using a z-buffer test to resolve depth.
