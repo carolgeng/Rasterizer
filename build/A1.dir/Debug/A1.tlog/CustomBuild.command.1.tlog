@@ -1,0 +1,10 @@
+^C:\USERS\CAROL\ONEDRIVE\DOCUMENTS\441\A1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Carol/OneDrive/Documents/441/A1 -BC:/Users/Carol/OneDrive/Documents/441/A1/build --check-stamp-file C:/Users/Carol/OneDrive/Documents/441/A1/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

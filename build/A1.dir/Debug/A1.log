@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(173,34): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(239,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(240,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(241,102): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(241,67): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(241,32): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(282,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(283,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(286,23): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(286,25): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(290,99): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(290,66): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(290,33): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(343,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(344,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(345,23): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(345,25): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(400,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(401,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(402,23): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(402,25): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(408,26): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(409,25): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(472,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(473,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(474,23): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(474,25): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(491,34): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(553,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(554,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(555,23): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(555,25): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(568,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(569,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(570,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(638,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(639,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(640,23): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(640,25): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(655,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(656,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carol\OneDrive\Documents\441\A1\src\main.cpp(657,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  A1.vcxproj -> C:\Users\Carol\OneDrive\Documents\441\A1\build\Debug\A1.exe
